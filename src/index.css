@@ -1,0 +1,8 @@
+.padding{
+  padding: 100px;
+}
+.navbar{
+  padding: 15px;
+  display: flex;
+  gap: 15px;
+}
